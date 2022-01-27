@@ -1,0 +1,202 @@
+cluster 	1	2	3	1	2	3	sum	
+Cluster_DMM-L6	median	median	median	mean	mean	mean	sum	
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae	0.0452341	0.343218828	0.016684794	0.068291699	0.362257425	0.033742351	0.464291475	f__Bacteroidaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae	0.005558237	0.000649701	0.324354324	0.034018649	0.049487826	0.349214473	0.432720948	f__Prevotellaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae	0.131091182	0.089239137	0.094568074	0.138954899	0.100020598	0.114262769	0.353238266	f__Ruminococcaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae	0.159241572	0.061518291	0.055647493	0.183141389	0.081078542	0.064066562	0.328286493	f__Lachnospiraceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. incertae sedis	0.101834583	0.050845511	0.093991925	0.113006157	0.062234825	0.107410222	0.282651204	f__Clostridiales fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae	0.07057603	0.026257154	0.036152692	0.092912814	0.040738206	0.0563116	0.18996262	f__Clostridiaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Eubacteriaceae	0.0410671	0.02972207	0.019337711	0.0541149	0.046876921	0.027767511	0.128759332	f__Eubacteriaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae	0.007355484	0.019282527	0.003463081	0.022396533	0.045415161	0.013612905	0.081424599	f__Rikenellaceae
+k__Bacteria;p__Firmicutes;c__Firmicutes class incertae sedis;o__Firmicutes order incertae sedis;f__Firmicutes fam. incertae sedis	0.014755724	0.002820294	0.010937171	0.029164241	0.0071787	0.021156476	0.057499417	f__Firmicutes fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Oscillospiraceae	0.00891627	0.007420206	0.015944658	0.013056279	0.013329831	0.021783376	0.048169486	f__Oscillospiraceae
+k__Bacteria;p__Firmicutes;c__Negativicutes;o__Veillonellales;f__Veillonellaceae	0.003613551	0.001421983	0.013249068	0.016161392	0.009611829	0.01810068	0.043873901	f__Veillonellaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae	0.003332863	0.011478836	0.001428309	0.006389278	0.022387884	0.004216598	0.03299376	f__Tannerellaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Bifidobacteriales;f__Bifidobacteriaceae	0.002393483	0.000378893	0.001312361	0.016245539	0.005295187	0.009277869	0.030818595	f__Bifidobacteriaceae
+unassigned;Other;Other;Other;Other	0.053354453	0.037447799	0.035424314	0.055159427	0.040243927	0.036264801	0.131668154	Other
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidales fam. incertae sedis	0.000995567	0.001850171	0.006554806	0.006989037	0.009360583	0.013974395	0.030324015	f__Bacteroidales fam. incertae sedis
+k__Bacteria;p__Proteobacteria;c__Proteobacteria class [Gammaproteobacteria/Alphaproteobacteria];o__Proteobacteria order [Rhodospirillales/Enterobacterales];f__Proteobacteria fam. [Acetobacteraceae/Enterobacteriaceae]	0.000413437	0.000287845	0.000288401	0.01164713	0.010488331	0.004185991	0.026321451	f__Proteobacteria fam. [Acetobacteraceae/Enterobacteriaceae]
+k__Bacteria;p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae	0	0	4.5E-05	0.013366211	0.007671387	0.004569354	0.025606952	f__Selenomonadaceae
+k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Sutterellaceae	0.001889893	0.005966332	0.005816935	0.003947541	0.009080482	0.009170316	0.022198338	f__Sutterellaceae
+k__Bacteria;p__Firmicutes;c__Firmicutes class [Clostridia/Bacilli];o__Firmicutes order [Clostridiales/Lactobacillales];f__Firmicutes fam. [Lachnospiraceae/Lactobacillaceae]	0.000390107	0.000141556	0.000178976	0.006842847	0.010075215	0.00347558	0.020393641	f__Firmicutes fam. [Lachnospiraceae/Lactobacillaceae]
+k__Bacteria;p__Chloroflexi;c__Dehalococcoidia;o__Dehalococcoidales;f__Dehalococcoidales fam. incertae sedis	0	0	0.00079603	0.003620996	0.000475749	0.015573305	0.019670051	f__Dehalococcoidales fam. incertae sedis
+k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae	0.003029717	0.000446052	0.002753579	0.007056337	0.002256678	0.008554486	0.0178675	f__Coriobacteriaceae
+k__Bacteria;p__Firmicutes;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae	2.2E-05	0	0.001666784	0.005211478	0.003188358	0.007866424	0.016266259	f__Acidaminococcaceae
+k__Bacteria;p__Bacteria phylum incertae sedis;c__Bacteria class incertae sedis;o__Bacteria order incertae sedis;f__Bacteria fam. incertae sedis	0.004092566	0.000970577	0.001317719	0.008104981	0.003579752	0.003695938	0.015380672	f__Bacteria fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae	0.00235367	0.000939402	0.002774928	0.007462027	0.002088245	0.004566808	0.01411708	f__Erysipelotrichaceae
+k__Bacteria;p__Firmicutes;c__Firmicutes class [Negativicutes/Bacilli];o__Firmicutes order [Acidaminococcales/Lactobacillales];f__Firmicutes fam. [Carnobacteriaceae/Acidaminococcaceae]	0	0.003677082	0	0.003039787	0.0090022	0.001473111	0.013515097	f__Firmicutes fam. [Carnobacteriaceae/Acidaminococcaceae]
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae	0.002319191	0.000673061	0.00048634	0.008974829	0.001762624	0.002058377	0.012795831	f__Streptococcaceae
+k__Bacteria;p__Verrucomicrobia;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae	0.000282444	0	3.37E-05	0.005614993	0.004695087	0.001643942	0.011954022	f__Akkermansiaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Barnesiellaceae	0.000542578	2.8361E-05	9.54E-05	0.00426513	0.004722687	0.001437426	0.010425243	f__Barnesiellaceae
+k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Eggerthellales;f__Eggerthellaceae	0.002516976	0.000314534	0.001468347	0.004268243	0.000776505	0.002202914	0.007247661	f__Eggerthellaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. [Lachnospiraceae/Clostridiaceae]	0.000101697	0	0.000135716	0.003803332	0.001356081	0.001816148	0.006975561	f__Clostridiales fam. [Lachnospiraceae/Clostridiaceae]
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Succinivibrionaceae	0	0	0	0.000894209	0.000271115	0.0057734	0.006938724	f__Succinivibrionaceae
+k__Bacteria;p__Fusobacteria;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae	0	3.105E-05	0	0.000466007	0.004765378	0.001437455	0.00666884	f__Fusobacteriaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. [Lachnospiraceae/Ruminococcaceae]	0.000721783	0.000274101	0.000308384	0.004017832	0.001307351	0.00092472	0.006249903	f__Clostridiales fam. [Lachnospiraceae/Ruminococcaceae]
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae	0.000105494	0	0.000134099	0.004597543	0.000241441	0.001071574	0.005910558	f__Lactobacillaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae	0	0	0	0.003266368	0.002268383	0.000356449	0.0058912	f__Moraxellaceae
+k__Bacteria;p__Proteobacteria;c__Deltaproteobacteria;o__Desulfovibrionales;f__Desulfovibrionaceae	0.001049162	0.00101112	0.001326168	0.001853219	0.001939794	0.002030614	0.005823627	f__Desulfovibrionaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacterales fam. [Yersiniaceae/Enterobacteriaceae]	0	0	0	0.002479125	0.0024155	0.000637842	0.005532467	f__Enterobacterales fam. [Yersiniaceae/Enterobacteriaceae]
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Odoribacteraceae	0.000571254	0.001673169	0.000447931	0.001390428	0.00292503	0.001124891	0.005440348	f__Odoribacteraceae
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae	0	0	0	0.002950731	0.001502944	0.000904536	0.00535821	f__Rhodospirillaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. [Eubacteriaceae/Clostridiaceae]	0	0	0	0.003157873	0.000944885	0.001136947	0.005239706	f__Clostridiales fam. [Eubacteriaceae/Clostridiaceae]
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae	0	0	5.78E-05	0.001959135	0.000601637	0.002231159	0.004791931	f__Acetobacteraceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae	0.000620704	0.000211601	8.13E-05	0.002643567	0.001468018	0.000470724	0.004582309	f__Peptostreptococcaceae
+k__Bacteria;p__Tenericutes;c__Mollicutes;o__Mycoplasmatales;f__Mycoplasmataceae	0	0	0	0.002376038	0.000542683	0.001340082	0.004258804	f__Mycoplasmataceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae	8.66265E-05	0.000143218	8.8177E-05	0.000677451	0.001652632	0.000648944	0.002979026	f__Pasteurellaceae
+k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Coriobacteriales;f__Atopobiaceae	7.74465E-05	0	0.0001565	0.000308853	4.03589E-05	0.002327823	0.002677034	f__Atopobiaceae
+k__Bacteria;p__Bacteria phylum [Proteobacteria/Firmicutes];c__Bacteria class [Alphaproteobacteria/Bacilli];o__Bacteria order [Lactobacillales/Rhodospirillales];f__Bacteria fam. [Lactobacillaceae/Rhodospirillaceae]	0	0	0	0.000808518	0.001572341	8.73116E-05	0.002468171	f__Bacteria fam. [Lactobacillaceae/Rhodospirillaceae]
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. [Clostridiaceae/Ruminococcaceae]	0.000112804	0.000202887	2.12E-05	0.001439487	0.000688587	0.000310199	0.002438273	f__Clostridiales fam. [Clostridiaceae/Ruminococcaceae]
+k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiales fam. incertae sedis	0	0	0	0.000473714	0.001807561	0.00012345	0.002404725	f__Burkholderiales fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridia order incertae sedis;f__Clostridia fam. incertae sedis	0	0	0.000172091	0.000782149	0.000182529	0.001344665	0.002309343	f__Clostridia fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae	2.51E-05	0	0	0.001569695	0.000263922	0.000433539	0.002267155	f__Staphylococcaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales Family XIII. Incertae Sedis	0.00069966	0.000142551	0.000558328	0.001107476	0.000357177	0.000784291	0.002248945	f__Clostridiales Family XIII. Incertae Sedis
+k__Bacteria;p__Proteobacteria;c__Proteobacteria class incertae sedis;o__Proteobacteria order incertae sedis;f__Proteobacteria fam. incertae sedis	0	0	0	0.001119378	0.000906131	0.000124038	0.002149548	f__Proteobacteria fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Firmicutes class [Clostridia/Erysipelotrichia];o__Firmicutes order [Clostridiales/Erysipelotrichales];f__Firmicutes fam. [Erysipelotrichaceae/Clostridiaceae]	6.555E-05	0	0	0.001369487	0.000612334	0.000134973	0.002116794	f__Firmicutes fam. [Erysipelotrichaceae/Clostridiaceae]
+k__Archaea;p__Euryarchaeota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae	0	0	1.93E-05	0.001461317	4.52408E-05	0.000540903	0.002047461	f__Methanobacteriaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidales fam. [Prevotellaceae/Muribaculaceae]	0	0	0	2.9677E-05	9.13684E-05	0.001517557	0.001638603	f__Bacteroidales fam. [Prevotellaceae/Muribaculaceae]
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae	0	0	0	0.001147586	0.000235474	0.00010397	0.00148703	f__Enterococcaceae
+k__Bacteria;p__Spirochaetes;c__Spirochaetia;o__Spirochaetales;f__Spirochaetaceae	0	0	0	0	0	0.00146286	0.00146286	f__Spirochaetaceae
+k__Bacteria;p__Elusimicrobia;c__Elusimicrobia class incertae sedis;o__Elusimicrobia order incertae sedis;f__Elusimicrobia fam. incertae sedis	0	0	0	4.48455E-05	2.1208E-06	0.001328311	0.001375277	f__Elusimicrobia fam. incertae sedis
+k__Bacteria;p__Lentisphaerae;c__Lentisphaerae class incertae sedis;o__Lentisphaerae order incertae sedis;f__Lentisphaerae fam. incertae sedis	0	0	5.06E-05	0.000321912	0.000159611	0.000605032	0.001086555	f__Lentisphaerae fam. incertae sedis
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Actinomycetales;f__Actinomycetaceae	0.000299027	0	8.83001E-05	0.00063992	0.000124045	0.000233874	0.000997839	f__Actinomycetaceae
+k__Bacteria;p__Spirochaetes;c__Spirochaetia;o__Brachyspirales;f__Brachyspiraceae	0	0	0	0.000208811	0.000243781	0.000481592	0.000934184	f__Brachyspiraceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae	0	0	0	0.000605032	0.000181868	0.000138927	0.000925827	f__Enterobacteriaceae
+k__Bacteria;p__Verrucomicrobia;c__Verrucomicrobia class incertae sedis;o__Verrucomicrobia order incertae sedis;f__Verrucomicrobia fam. incertae sedis	0	0	0	0.000495153	0.000102371	0.000286869	0.000884393	f__Verrucomicrobia fam. incertae sedis
+k__Bacteria;p__Bacteria phylum [Proteobacteria/Bacteroidetes];c__Bacteria class [Sphingobacteriia/Gammaproteobacteria];o__Bacteria order [Sphingobacteriales/Enterobacterales];f__Bacteria fam. [Erwiniaceae/Enterobacteriaceae/Sphingobacteriaceae]	0	0	0	0.000378716	0.000174624	0.000222702	0.000776042	f__Bacteria fam. [Erwiniaceae/Enterobacteriaceae/Sphingobacteriaceae]
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae	0	0	0	1.50964E-05	0.00072617	6.64579E-06	0.000747913	f__Pseudomonadaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae	0	0	0	0.000465659	0.000121486	0.000108942	0.000696088	f__Muribaculaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. [Eubacteriaceae/Ruminococcaceae]	0.0001994	0	6.15E-05	0.000392111	8.94593E-05	0.000103691	0.000585262	f__Clostridiales fam. [Eubacteriaceae/Ruminococcaceae]
+k__Bacteria;p__Candidatus Melainabacteria;c__Candidatus Melainabacteria class incertae sedis;o__Candidatus Gastranaerophilales;f__Candidatus Gastranaerophilales fam. incertae sedis	0	0	0	0.000107048	5.72319E-07	0.000475936	0.000583556	f__Candidatus Gastranaerophilales fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Leuconostocaceae	0	0	0	0.000451734	3.35749E-05	4.41021E-05	0.000529411	f__Leuconostocaceae
+k__Bacteria;p__Tenericutes;c__Mollicutes;o__Acholeplasmatales;f__Acholeplasmataceae	0	0	0	0.000344554	1.621E-05	9.91056E-05	0.00045987	f__Acholeplasmataceae
+k__Bacteria;p__Bacteria phylum [Proteobacteria/Firmicutes];c__Bacteria class [Gammaproteobacteria/Bacilli];o__Bacteria order [Lactobacillales/Pseudomonadales];f__Bacteria fam. [Moraxellaceae/Enterococcaceae]	0	0	0	0.000369635	6.18036E-05	2.15853E-05	0.000453024	f__Bacteria fam. [Moraxellaceae/Enterococcaceae]
+k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Oxalobacteraceae	0	0	8.16E-05	0.000163311	0.000115664	0.000147439	0.000426415	f__Oxalobacteraceae
+k__Bacteria;p__Verrucomicrobia;c__Opitutae;o__Opitutae order incertae sedis;f__Opitutae fam. incertae sedis	0	0	0	4.10292E-05	1.26961E-05	0.000336361	0.000390087	f__Opitutae fam. incertae sedis
+k__Bacteria;p__Elusimicrobia;c__Elusimicrobia;o__Elusimicrobiales;f__Elusimicrobiaceae	0	0	0	0.000181776	0	0.00018002	0.000361796	f__Elusimicrobiaceae
+k__Bacteria;p__Firmicutes;c__Firmicutes class [Clostridia/Erysipelotrichia];o__Firmicutes order [Clostridiales/Erysipelotrichales];f__Firmicutes fam. [Erysipelotrichaceae/Peptostreptococcaceae]	2.605E-05	0	0	0.000169908	0.000127527	1.9389E-05	0.000316823	f__Firmicutes fam. [Erysipelotrichaceae/Peptostreptococcaceae]
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. [Lachnospiraceae/Clostridiaceae/Ruminococcaceae]	0	0	0	8.53119E-05	0.000162071	4.62342E-05	0.000293617	f__Clostridiales fam. [Lachnospiraceae/Clostridiaceae/Ruminococcaceae]
+k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Coriobacteriia order incertae sedis;f__Coriobacteriia fam. incertae sedis	0	0	3.15E-05	9.15394E-05	1.70329E-05	0.000179618	0.000288191	f__Coriobacteriia fam. incertae sedis
+k__Bacteria;p__Tenericutes;c__Mollicutes;o__Mollicutes order incertae sedis;f__Mollicutes fam. incertae sedis	0	0	0	0.000137848	2.63382E-05	0.000104458	0.000268644	f__Mollicutes fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillales fam. incertae sedis	4.38E-05	0	0	0.000122836	0.000112054	2.10267E-05	0.000255917	f__Bacillales fam. incertae sedis
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Micrococcales;f__Micrococcaceae	2.55E-05	0	3.18E-05	6.33648E-05	4.50575E-05	0.000114913	0.000223335	f__Micrococcaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. [Clostridiaceae/Heliobacteriaceae]	0	0	0	9.90471E-05	0.000106466	9.55723E-06	0.000215071	f__Clostridiales fam. [Clostridiaceae/Heliobacteriaceae]
+k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Campylobacteraceae	0	0	0	9.7787E-06	2.40234E-05	0.000175965	0.000209767	f__Campylobacteraceae
+k__Bacteria;p__Synergistetes;c__Synergistia;o__Synergistales;f__Synergistaceae	0	0	0	5.42271E-05	7.11711E-05	8.27128E-05	0.000208111	f__Synergistaceae
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae	0	0	0	7.05853E-05	6.82771E-07	0.00012978	0.000201048	f__Bacillaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidales fam. [Porphyromonadaceae/Barnesiellaceae]	0	0	0	6.80227E-05	9.58921E-05	3.07707E-05	0.000194685	f__Bacteroidales fam. [Porphyromonadaceae/Barnesiellaceae]
+k__Bacteria;p__Candidatus Melainabacteria;c__Candidatus Melainabacteria class incertae sedis;o__Candidatus Melainabacteria order incertae sedis;f__Candidatus Melainabacteria fam. incertae sedis	0	0	0	0.000130708	2.18219E-06	6.00302E-05	0.000192921	f__Candidatus Melainabacteria fam. incertae sedis
+k__Bacteria;p__Verrucomicrobia;c__Opitutae;o__Puniceicoccales;f__Puniceicoccaceae	0	0	0	9.33598E-05	1.01052E-05	8.63058E-05	0.000189771	f__Puniceicoccaceae
+k__Bacteria;p__Fusobacteria;c__Fusobacteria class incertae sedis;o__Fusobacteria order incertae sedis;f__Fusobacteria fam. incertae sedis	0	0	0	0.00013164	0	5.30305E-05	0.00018467	f__Fusobacteria fam. incertae sedis
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillales fam. incertae sedis	0	0	0	4.04786E-05	3.83433E-05	0.000104413	0.000183235	f__Rhodospirillales fam. incertae sedis
+k__Bacteria;p__Candidatus Saccharibacteria;c__Candidatus Saccharibacteria class incertae sedis;o__Candidatus Saccharibacteria order incertae sedis;f__Candidatus Saccharibacteria fam. incertae sedis	0	0	0	0.000109468	3.46981E-05	3.80267E-05	0.000182193	f__Candidatus Saccharibacteria fam. incertae sedis
+k__Archaea;p__Euryarchaeota;c__Euryarchaeota class [Thermoplasmata/Methanomicrobia];o__Euryarchaeota order [Methanomassiliicoccales/Methanomicrobiales];f__Methanomicrobiaceae	0	0	0	9.32301E-05	9.90628E-07	8.51635E-05	0.000179384	f__Methanomicrobiaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae	0	0	0	5.34722E-05	4.797E-05	7.24908E-05	0.000173933	f__Porphyromonadaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Actinobacteria order [Actinomycetales/Micrococcales];f__Actinobacteria fam. [Sanguibacteraceae/Actinomycetaceae/Promicromonosporaceae]	4.7966E-05	0	0	8.51412E-05	2.36456E-05	6.25538E-05	0.000171341	f__Actinobacteria fam. [Sanguibacteraceae/Actinomycetaceae/Promicromonosporaceae]
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales fam. [Clostridiaceae/Christensenellaceae]	0	0	0	5.83887E-05	1.05237E-06	0.000105143	0.000164584	f__Clostridiales fam. [Clostridiaceae/Christensenellaceae]
+k__Bacteria;p__Tenericutes;c__Tenericutes class incertae sedis;o__Tenericutes order incertae sedis;f__Tenericutes fam. incertae sedis	0	0	0	7.05905E-05	0	8.63884E-05	0.000156979	f__Tenericutes fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptococcaceae	0	0	0	7.45912E-05	2.58592E-05	3.89901E-05	0.00013944	f__Peptococcaceae
+k__Bacteria;p__Bacteria phylum [Firmicutes/Bacteroidetes];c__Bacteria class [Sphingobacteriia/Bacilli];o__Bacteria order [Bacillales/Lactobacillales/Sphingobacteriales];f__Bacteria fam. [Streptococcaceae/Listeriaceae/Enterococcaceae/Sphingobacteriaceae]	0	0	0	0.000108204	1.5557E-05	1.33275E-05	0.000137088	f__Bacteria fam. [Streptococcaceae/Listeriaceae/Enterococcaceae/Sphingobacteriaceae]
+k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriia order incertae sedis;f__Flavobacteriia fam. incertae sedis	0	0	0	9.88261E-05	1.74738E-05	2.04944E-05	0.000136794	f__Flavobacteriia fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Tissierellia;o__Tissierellales;f__Peptoniphilaceae	0	0	0	7.50643E-05	3.00377E-05	1.16699E-05	0.000116772	f__Peptoniphilaceae
+k__Archaea;p__Euryarchaeota;c__Thermoplasmata;o__Thermoplasmata order incertae sedis;f__Thermoplasmata fam. incertae sedis	0	0	0	0.00010624	0	0	0.00010624	f__Thermoplasmata fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Carnobacteriaceae	0	0	0	6.99859E-05	2.03566E-05	1.51808E-05	0.000105523	f__Carnobacteriaceae
+k__Bacteria;p__Firmicutes;c__Firmicutes class [Clostridia/Erysipelotrichia];o__Firmicutes order [Clostridiales/Erysipelotrichales];f__Firmicutes fam. [Erysipelotrichaceae/Eubacteriaceae/Clostridiaceae]	0	0	0	5.0736E-05	5.17502E-05	3.7686E-07	0.000102863	f__Firmicutes fam. [Erysipelotrichaceae/Eubacteriaceae/Clostridiaceae]
+k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Eggerthellales;f__Eggerthellales fam. incertae sedis	0	0	0	7.88253E-05	3.18046E-06	1.92046E-05	0.00010121	f__Eggerthellales fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Christensenellaceae	0	0	0	4.58248E-05	3.37956E-05	2.01785E-05	9.97989E-05	f__Christensenellaceae
+k__Bacteria;p__Proteobacteria;c__Deltaproteobacteria;o__Myxococcales;f__Myxococcaceae	0	0	0	6.12829E-05	0	3.20904E-05	9.33733E-05	f__Myxococcaceae
+k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriales fam. incertae sedis	0	0	0	6.68104E-05	3.48134E-06	1.95821E-05	8.98738E-05	f__Coriobacteriales fam. incertae sedis
+k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Neisseriales;f__Neisseriaceae	0	0	0	7.86316E-06	2.44203E-05	5.62283E-05	8.85118E-05	f__Neisseriaceae
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillales fam. incertae sedis	0	0	0	5.96547E-05	1.33378E-05	1.46686E-05	8.76612E-05	f__Lactobacillales fam. incertae sedis
+k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae	0	0	0	2.10475E-05	4.26691E-05	2.17051E-05	8.54217E-05	f__Flavobacteriaceae
+k__Archaea;p__Euryarchaeota;c__Euryarchaeota class incertae sedis;o__Euryarchaeota order incertae sedis;f__Euryarchaeota fam. incertae sedis	0	0	0	3.0992E-05	0	4.96511E-05	8.06431E-05	f__Euryarchaeota fam. incertae sedis
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Alphaproteobacteria order incertae sedis;f__Alphaproteobacteria fam. incertae sedis	0	0	0	5.56143E-05	0	2.37597E-05	7.9374E-05	f__Alphaproteobacteria fam. incertae sedis
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Propionibacteriales;f__Propionibacteriaceae	0	0	0	5.22457E-05	7.3018E-06	4.11591E-06	6.36634E-05	f__Propionibacteriaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae	0	0	0	4.41364E-07	8.05574E-06	5.15794E-05	6.00765E-05	f__Aeromonadaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Morganellaceae	0	0	0	3.53819E-05	1.44685E-05	4.26801E-06	5.41184E-05	f__Morganellaceae
+k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Comamonadaceae	0	0	0	1.69549E-05	9.07763E-06	2.57578E-05	5.17904E-05	f__Comamonadaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Actinobacteria order [Actinomycetales/Streptomycetales];f__Actinobacteria fam. [Actinomycetaceae/Streptomycetaceae]	0	0	0	1.93214E-05	6.5818E-06	2.02269E-05	4.61301E-05	f__Actinobacteria fam. [Actinomycetaceae/Streptomycetaceae]
+k__Bacteria;p__Firmicutes;c__Firmicutes class [Clostridia/Erysipelotrichia];o__Firmicutes order [Clostridiales/Erysipelotrichales];f__Firmicutes fam. [Erysipelotrichaceae/Lachnospiraceae]	0	0	0	1.26081E-05	9.21639E-06	2.19535E-05	4.3778E-05	f__Firmicutes fam. [Erysipelotrichaceae/Lachnospiraceae]
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Corynebacteriales;f__Corynebacteriaceae	0	0	0	2.90449E-05	7.34419E-06	5.21659E-06	4.16057E-05	f__Corynebacteriaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Micrococcales;f__Promicromonosporaceae	0	0	0	1.52272E-05	2.77386E-06	1.69437E-05	3.49447E-05	f__Promicromonosporaceae
+k__Archaea;p__Euryarchaeota;c__Methanomicrobia;o__Methanomicrobia order incertae sedis;f__Methanomicrobia fam. incertae sedis	0	0	0	1.02298E-05	0	2.45264E-05	3.47562E-05	f__Methanomicrobia fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Paenibacillaceae	0	0	0	2.79293E-06	5.50263E-07	2.94395E-05	3.27827E-05	f__Paenibacillaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Micrococcales;f__Microbacteriaceae	0	0	0	2.52906E-05	7.95813E-07	6.34213E-06	3.24285E-05	f__Microbacteriaceae
+k__Bacteria;p__Fusobacteria;c__Fusobacteriia;o__Fusobacteriales;f__Leptotrichiaceae	0	0	0	3.29432E-06	2.44243E-05	3.39759E-06	3.11162E-05	f__Leptotrichiaceae
+k__Bacteria;p__Bacteria phylum [Firmicutes/Actinobacteria];c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae	0	0	0	1.01744E-05	1.30644E-06	1.83756E-05	2.98564E-05	f__Coriobacteriaceae
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Catabacteriaceae	0	0	0	1.17788E-05	1.48598E-05	2.06834E-06	2.8707E-05	f__Catabacteriaceae
+k__Bacteria;p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Selenomonadales fam. incertae sedis	0	0	0	2.94518E-07	2.44462E-05	0	2.47408E-05	f__Selenomonadales fam. incertae sedis
+k__Archaea;p__Euryarchaeota;c__Thermoplasmata;o__Methanomassiliicoccales;f__Methanomassiliicoccaceae	0	0	0	2.10175E-05	2.02034E-06	1.10972E-06	2.41476E-05	f__Methanomassiliicoccaceae
+k__Bacteria;p__Bacteria phylum [Proteobacteria/Firmicutes];c__Bacteria class [Gammaproteobacteria/Bacilli];o__Bacteria order [Bacillales/Pseudomonadales];f__Bacteria fam. [Moraxellaceae/Staphylococcaceae]	0	0	0	1.21244E-06	0	1.94401E-05	2.06525E-05	f__Bacteria fam. [Moraxellaceae/Staphylococcaceae]
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Hafniaceae	0	0	0	5.2506E-06	6.69993E-06	3.49183E-06	1.54424E-05	f__Hafniaceae
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Aerococcaceae	0	0	0	7.69822E-06	4.83184E-06	1.80642E-06	1.43365E-05	f__Aerococcaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Pseudonocardiales;f__Pseudonocardiaceae	0	0	0	2.73112E-06	3.42532E-06	7.39237E-06	1.35488E-05	f__Pseudonocardiaceae
+k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae	0	0	0	1.45314E-06	3.85107E-06	8.04233E-06	1.33465E-05	f__Burkholderiaceae
+k__Bacteria;p__Firmicutes;c__Tissierellia;o__Tissierellales;f__Tissierellaceae	0	0	0	4.92067E-06	6.83247E-06	1.548E-06	1.33011E-05	f__Tissierellaceae
+k__Bacteria;p__Bacteria phylum [Firmicutes/Actinobacteria];c__Bacteria class [Actinobacteria/Bacilli];o__Bacteria order [Bacillales/Lactobacillales/Micrococcales];f__Bacteria fam. [Micrococcaceae/Streptococcaceae/Bacillaceae/Planococcaceae]	0	0	0	7.6828E-06	4.22947E-07	4.43676E-06	1.25425E-05	f__Bacteria fam. [Micrococcaceae/Streptococcaceae/Bacillaceae/Planococcaceae]
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Micrococcales;f__Micrococcales fam. [Dermacoccaceae/Cellulomonadaceae]	0	0	0	6.26434E-06	8.23828E-07	4.43879E-06	1.1527E-05	f__Micrococcales fam. [Dermacoccaceae/Cellulomonadaceae]
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacterales fam. incertae sedis	0	0	0	8.33136E-07	1.00655E-05	0	1.08986E-05	f__Enterobacterales fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Tissierellia;o__Tissierellia order incertae sedis;f__Tissierellia fam. incertae sedis	0	0	0	5.51194E-06	2.43456E-06	9.64835E-07	8.91133E-06	f__Tissierellia fam. incertae sedis
+k__Bacteria;p__Bacteria phylum [Firmicutes/Actinobacteria];c__Bacteria class [Actinobacteria/Bacilli];o__Bacteria order [Lactobacillales/Streptomycetales];f__Bacteria fam. [Aerococcaceae/Streptomycetaceae]	0	0	0	5.11132E-06	5.97231E-07	2.69678E-06	8.40533E-06	f__Bacteria fam. [Aerococcaceae/Streptomycetaceae]
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Gammaproteobacteria order [Vibrionales/Enterobacterales];f__Gammaproteobacteria fam. [Enterobacteriaceae/Vibrionaceae]	0	0	0	2.01199E-06	3.12223E-06	3.06805E-06	8.20227E-06	f__Gammaproteobacteria fam. [Enterobacteriaceae/Vibrionaceae]
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacilli order [Bacillales/Lactobacillales];f__Bacilli fam. [Streptococcaceae/Bacillaceae]	0	0	0	3.76862E-06	1.33186E-06	1.70785E-06	6.80832E-06	f__Bacilli fam. [Streptococcaceae/Bacillaceae]
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacilli order [Bacillales/Lactobacillales];f__Bacilli fam. [Streptococcaceae/Staphylococcaceae]	0	0	0	4.37063E-07	4.46375E-06	1.6683E-06	6.56911E-06	f__Bacilli fam. [Streptococcaceae/Staphylococcaceae]
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Pseudoalteromonadaceae	0	0	0	3.14067E-07	4.62174E-06	7.86496E-07	5.7223E-06	f__Pseudoalteromonadaceae
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillales fam. [Bacillaceae/Paenibacillaceae]	0	0	0	5.02216E-06	0	6.24242E-07	5.64641E-06	f__Bacillales fam. [Bacillaceae/Paenibacillaceae]
+k__Bacteria;p__Proteobacteria;c__Proteobacteria class [Gammaproteobacteria/Betaproteobacteria];o__Proteobacteria order [Pseudomonadales/Burkholderiales];f__Proteobacteria fam. [Burkholderiaceae/Pseudomonadaceae]	0	0	0	0	4.99851E-06	0	4.99851E-06	f__Proteobacteria fam. [Burkholderiaceae/Pseudomonadaceae]
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae	0	0	0	4.22746E-06	0	4.57967E-07	4.68543E-06	f__Rhodobacteraceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae	0	0	0	0	0	4.37389E-06	4.37389E-06	f__Yersiniaceae
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Bradyrhizobiaceae	0	0	0	0	3.47856E-06	3.50493E-07	3.82905E-06	f__Bradyrhizobiaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae	0	0	0	1.17126E-07	3.02944E-06	4.4119E-07	3.58775E-06	f__Vibrionaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Dysgonamonadaceae	0	0	0	2.68764E-06	6.00529E-07	0	3.28817E-06	f__Dysgonamonadaceae
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacilli order [Bacillales/Lactobacillales];f__Bacilli fam. [Listeriaceae/Enterococcaceae]	0	0	0	8.70384E-07	2.41708E-06	0	3.28747E-06	f__Bacilli fam. [Listeriaceae/Enterococcaceae]
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae	0	0	0	2.36665E-07	2.93459E-06	0	3.17126E-06	f__Sphingomonadaceae
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Planococcaceae	0	0	0	1.73819E-07	0	2.60283E-06	2.77665E-06	f__Planococcaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Shewanellaceae	0	0	0	0	2.47815E-06	0	2.47815E-06	f__Shewanellaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Corynebacteriales;f__Corynebacteriales fam. incertae sedis	0	0	0	1.3061E-06	1.05296E-06	0	2.35907E-06	f__Corynebacteriales fam. incertae sedis
+k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae	0	0	0	3.19095E-07	0	1.93308E-06	2.25217E-06	f__Helicobacteraceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae	0	0	0	7.82148E-07	4.28494E-07	1.03187E-06	2.24251E-06	f__Erwiniaceae
+k__Bacteria;p__Proteobacteria;c__Proteobacteria class [Gammaproteobacteria/Alphaproteobacteria];o__Proteobacteria order [Rhodospirillales/Pseudomonadales];f__Moraxellaceae	0	0	0	0	1.92254E-06	0	1.92254E-06	f__Moraxellaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae	0	0	0	5.08268E-07	1.14745E-06	0	1.65572E-06	f__Xanthomonadaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Micrococcales;f__Micrococcales fam. incertae sedis	0	0	0	1.35347E-06	1.83403E-07	0	1.53687E-06	f__Micrococcales fam. incertae sedis
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Listeriaceae	0	0	0	0	1.5107E-06	0	1.5107E-06	f__Listeriaceae
+k__Bacteria;p__Tenericutes;c__Mollicutes;o__Mycoplasmatales;f__Mycoplasmatales fam. incertae sedis	0	0	0	1.49726E-06	0	0	1.49726E-06	f__Mycoplasmatales fam. incertae sedis
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Corynebacteriales;f__Mycobacteriaceae	0	0	0	1.33559E-07	8.5401E-07	4.25479E-07	1.41305E-06	f__Mycobacteriaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Cardiobacteriales;f__Cardiobacteriaceae	0	0	0	3.15551E-07	4.38866E-07	6.00001E-07	1.35442E-06	f__Cardiobacteriaceae
+k__Bacteria;p__Bacteria phylum [Proteobacteria/Actinobacteria];c__Bacteria class [Gammaproteobacteria/Actinobacteria];o__Bacteria order [Pseudomonadales/Micrococcales];f__Bacteria fam. [Micrococcaceae/Moraxellaceae]	0	0	0	1.0441E-06	0	2.90152E-07	1.33425E-06	f__Bacteria fam. [Micrococcaceae/Moraxellaceae]
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Streptomycetales;f__Streptomycetaceae	0	0	0	0	4.27082E-07	7.573E-07	1.18438E-06	f__Streptomycetaceae
+k__Bacteria;p__Firmicutes;c__Firmicutes class [Clostridia/Negativicutes];o__Firmicutes order [Veillonellales/Clostridiales];f__Firmicutes fam. [Veillonellaceae/Ruminococcaceae]	0	0	0	1.01364E-06	0	0	1.01364E-06	f__Firmicutes fam. [Veillonellaceae/Ruminococcaceae]
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Micrococcales;f__Intrasporangiaceae	0	0	0	9.23138E-07	0	0	9.23138E-07	f__Intrasporangiaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Gammaproteobacteria order [Pasteurellales/Pseudomonadales];f__Gammaproteobacteria fam. [Pseudomonadaceae/Pasteurellaceae]	0	0	0	0	0	9.1646E-07	9.1646E-07	f__Gammaproteobacteria fam. [Pseudomonadaceae/Pasteurellaceae]
+k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Hungateiclostridiaceae	0	0	0	5.09047E-07	1.09454E-07	2.79339E-07	8.9784E-07	f__Hungateiclostridiaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Chromatiales;f__Chromatiaceae	0	0	0	0	8.57918E-07	0	8.57918E-07	f__Chromatiaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Micrococcales;f__Dermabacteraceae	0	0	0	8.54607E-07	0	0	8.54607E-07	f__Dermabacteraceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidetes class incertae sedis;o__Bacteroidetes order incertae sedis;f__Bacteroidetes fam. incertae sedis	0	0	0	0	8.40336E-08	7.25951E-07	8.09985E-07	f__Bacteroidetes fam. incertae sedis
+k__Archaea;p__Euryarchaeota;c__Thermococci;o__Thermococcales;f__Thermococcaceae	0	0	0	2.14301E-07	5.41122E-07	0	7.55423E-07	f__Thermococcaceae
+k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidia order incertae sedis;f__Bacteroidia fam. incertae sedis	0	0	0	0	0	7.10692E-07	7.10692E-07	f__Bacteroidia fam. incertae sedis
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Micrococcales;f__Brevibacteriaceae	0	0	0	0	0	5.66983E-07	5.66983E-07	f__Brevibacteriaceae
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae	0	0	0	2.30118E-07	3.30634E-07	0	5.60753E-07	f__Rhizobiaceae
+k__Bacteria;p__Deinococcus-Thermus;c__Deinococci;o__Thermales;f__Thermaceae	0	0	0	0	4.8445E-07	0	4.8445E-07	f__Thermaceae
+k__Bacteria;p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichales fam. incertae sedis	0	0	0	1.01575E-07	3.47267E-07	0	4.48842E-07	f__Erysipelotrichales fam. incertae sedis
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Brucellaceae	0	0	0	3.29431E-07	1.18588E-07	0	4.4802E-07	f__Brucellaceae
+k__Bacteria;p__Proteobacteria;c__Deltaproteobacteria;o__Deltaproteobacteria order incertae sedis;f__Deltaproteobacteria fam. incertae sedis	0	0	0	0	0	4.24879E-07	4.24879E-07	f__Deltaproteobacteria fam. incertae sedis
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Nakamurellales;f__Nakamurellaceae	0	0	0	0	0	3.95961E-07	3.95961E-07	f__Nakamurellaceae
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae	0	0	0	0	0	3.61157E-07	3.61157E-07	f__Caulobacteraceae
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Methylobacteriaceae	0	0	0	3.53543E-07	0	0	3.53543E-07	f__Methylobacteriaceae
+k__Bacteria;p__Planctomycetes;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae	0	0	0	0	0	3.51179E-07	3.51179E-07	f__Planctomycetaceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Corynebacteriales;f__Nocardiaceae	0	0	0	2.0748E-07	0	1.19559E-07	3.2704E-07	f__Nocardiaceae
+k__Eukaryota;p__Basidiomycota;c__Malasseziomycetes;o__Malasseziales;f__Malasseziaceae	0	0	0	3.14173E-07	0	0	3.14173E-07	f__Malasseziaceae
+k__Bacteria;p__Deferribacteres;c__Deferribacteres;o__Deferribacterales;f__Deferribacteraceae	0	0	0	0	0	2.89141E-07	2.89141E-07	f__Deferribacteraceae
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Corynebacteriales;f__Gordoniaceae	0	0	0	2.61041E-07	0	0	2.61041E-07	f__Gordoniaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__Halomonadaceae	0	0	0	0	2.53719E-07	0	2.53719E-07	f__Halomonadaceae
+k__Bacteria;p__Chlamydiae;c__Chlamydiia;o__Chlamydiales;f__Chlamydiaceae	0	0	0	2.30372E-07	0	0	2.30372E-07	f__Chlamydiaceae
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Phyllobacteriaceae	0	0	0	2.24288E-07	0	0	2.24288E-07	f__Phyllobacteriaceae
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Gammaproteobacteria order [Vibrionales/Pseudomonadales];f__Gammaproteobacteria fam. [Moraxellaceae/Vibrionaceae]	0	0	0	0	0	2.17631E-07	2.17631E-07	f__Gammaproteobacteria fam. [Moraxellaceae/Vibrionaceae]
+k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Neisseriales;f__Neisseriales fam. incertae sedis	0	0	0	1.02756E-07	0	1.06895E-07	2.09651E-07	f__Neisseriales fam. incertae sedis
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae	0	0	0	0	1.72899E-07	0	1.72899E-07	f__Pectobacteriaceae
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Erythrobacteraceae	0	0	0	0	1.30042E-07	0	1.30042E-07	f__Erythrobacteraceae
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Hyphomicrobiaceae	0	0	0	1.04134E-07	0	0	1.04134E-07	f__Hyphomicrobiaceae
+k__Bacteria;p__Bacteria phylum [Proteobacteria/Actinobacteria];c__Bacteria class [Actinobacteria/Alphaproteobacteria];o__Bacteria order [Rhodobacterales/Micrococcales];f__Bacteria fam. [Micrococcaceae/Rhodobacteraceae]	0	0	0	9.68504E-08	0	0	9.68504E-08	f__Bacteria fam. [Micrococcaceae/Rhodobacteraceae]
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Propionibacteriales;f__Nocardioidaceae	0	0	0	9.48819E-08	0	0	9.48819E-08	f__Nocardioidaceae
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Thermoactinomycetaceae	0	0	0	7.38189E-08	0	0	7.38189E-08	f__Thermoactinomycetaceae
+k__Bacteria;p__Deinococcus-Thermus;c__Deinococci;o__Deinococcales;f__Deinococcaceae	0	0	0	5.55118E-08	0	0	5.55118E-08	f__Deinococcaceae
